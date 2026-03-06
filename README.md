@@ -1,5 +1,5 @@
 # Power-BI-Portfolio
-Here are clean, concise portfolio overviews for each project. These are written the way portfolio reviewers, hiring managers, and recruiters prefer: short, impactful, and easy to scan.
+
 
 ---
 
